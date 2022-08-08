@@ -1,6 +1,7 @@
 # Expressjs Powered Api
 
 This is an expressjs based api that was originally made as a part of an application challange.
+As a direct result of that, there is no commit history as I moved the folder which contained the solution out of the mono repoo.
 
 The sole purpose of this repository is to showcase my ability to write a JS based backend with TypeScript.
 
