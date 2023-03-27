@@ -17,7 +17,7 @@ Repeat above but use ```npm run build-start```
 
 > /export
 
-```JSON 
+```
 //Example payload
 body: {
 	"bookId": "Don Quichotte",
@@ -27,7 +27,7 @@ body: {
 
 > /import
 
-```JSON 
+```
 //Example payload
 body: {
 	"bookId": "Don Quichotte",
